@@ -53,7 +53,7 @@ const Hello = () => {
   </div>
  
 
-  {/* <button  onClick={darkMode} >dark mode</button>
+  {/* <button  onClick={darkMode} >dark moe</button>
   <button  onClick={lightMode} >Light mode</button> */}
   </div>
   )
