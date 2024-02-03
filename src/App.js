@@ -1,4 +1,4 @@
-// import React from "react
+// importct from "react
 import Hello from "./Component/Hello";
 import Hii from "./Component/Hii";
 
